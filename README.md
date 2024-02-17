@@ -12,5 +12,5 @@
 <h3>2. Parte => Movimiento del personaje</h3>
 <p>Implementaremos los controles para que el personaje se mueva hacia la izquierda, derecha, salte y agache.</p>
 
-<h32. Parte => Archivo PNG y animación del personaje</h3>
+<h3>3. Parte => Archivo PNG y animación del personaje</h3>
 <p>Cargaremos un archivo PNG para representar al personaje y crearemos una animación básica para caminar o saltar.</p>
