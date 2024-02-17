@@ -1,4 +1,4 @@
-<h2> RICHARD HERRERA C.I: 17.689.575 / EMAIL: iepilectico@gmail.com </h2>
+<h2> Richard Herrera C.I: 17.689.575 / EMAIL: iepilectico@gmail.com </h2>
 <h2> Jose Luna Baez C.I: 26.973.734 / EMAIL: joselulabaez12@gmail.com </h2>
 <h2> Tecnologías Utilizadas </h2>
 <p><b>Lua2D:</b> Un motor de juego 2D basado en Lua.</p>
