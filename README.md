@@ -3,7 +3,7 @@
 <p><b>Windows 11:</b> Sistema operativo utilizado para el desarrollo.</p>
 <p><b>Visual Studio Code (VSCode):</b> Editor de código para escribir y depurar el juego.</p>
 <h2>Guía de Instalación de Love2D</h2>
-<p>Descarga e instala Love2D desde el sitio oficial:</p> https://love2d.org/
+<p>Descarga e instala Love2D desde el sitio oficial: https://love2d.org/</p>
 <p>Asegúrate de agregar Lua al PATH del sistema para que puedas ejecutarlo desde cualquier ubicación en la línea de comandos.</p>
 <h2>Partes del Juego</h2>
 <h3>1. Parte => Visualización de la Plataforma y Fondo</h3>
