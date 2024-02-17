@@ -7,10 +7,10 @@
 <p>Asegúrate de agregar Lua al PATH del sistema para que puedas ejecutarlo desde cualquier ubicación en la línea de comandos.</p>
 <h2>Partes del Juego</h2>
 <h3>1. Parte => Visualización de la Plataforma y Fondo</h3>
-<p>En esta parte, configuraremos la ventana del juego y estableceremos el fondo y la plataforma donde se desarrollará la acción.</p>
+<p>En esta parte, configuramos la ventana del juego y establecimos el fondo y la plataforma donde se desarrollará la acción.</p>
 
 <h3>2. Parte => Movimiento del personaje</h3>
-<p>Implementaremos los controles para que el personaje se mueva hacia la izquierda, derecha, salte y agache.</p>
+<p>Implementamos los controles para que el personaje se mueva hacia la izquierda, derecha, salte y agache.</p>
 
 <h3>3. Parte => Archivo PNG y animación del personaje</h3>
-<p>Cargaremos un archivo PNG para representar al personaje y crearemos una animación básica para caminar o saltar.</p>
+<p>Cargamos un archivo PNG para representar al personaje y creamos una animación básica para caminar o saltar.</p>
