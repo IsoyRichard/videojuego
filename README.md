@@ -11,18 +11,19 @@
 <h3>1. Parte => Visualización de la Plataforma y Fondo</h3>
 <p>En esta parte, configuramos la ventana del juego y establecimos el fondo y la plataforma donde se desarrollará la acción.</p>
 
-<h3>2. Parte => Movimiento del personaje</h3>
+<h3>2. Parte => Movimiento del personaje(Platform Game)</h3>
 <p>Implementamos los controles para que el personaje se mueva hacia la izquierda, derecha, salte y agache.</p>
 
-<h3>3. Parte => Archivo PNG y animación del personaje</h3>
+<h3>3. Parte => Archivo PNG y animación del personaje(Platform Game)</h3>
 <p>Cargamos un archivo PNG para representar al personaje y creamos una animación básica para caminar o saltar.</p>
 
-<h3>4. Parte => Monedas </h3>
+<h3>4. Parte => Monedas(Platform Game) </h3>
 <p>Implementamos monedas qué cuando el jugador las toque, se acumulen y se vea en pantalla cuantas monedas capturó.</p>
 
-<h3>5. Parte => Vidas y Objetos </h3>
+<h3>5. Parte => Vidas y Objetos(Platform Game) </h3>
 <p>Agregmaos una barra de 3 vidas, y objetos qué le hacen daño al jugador, al hacerle daño; la vida se reduce.</p>
 
-<h3>6. Parte => Enemigos </h3>
-<p>Agregamos un mini enemigo, qué al tocarlo, la vida se reduce.</p>
+<h3>6. Parte => Enemigos(Platform Game), Menu de Opciones y Pixelated Flight </h3>
+<p>Agregamos un mini enemigo, qué al tocarlo, la vida se reduce</p>
+<p>Adicionalmente, le agregamos un nuevo menu de opciones con un juego más para el entretenimiento.</p>
 
