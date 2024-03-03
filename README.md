@@ -27,3 +27,6 @@
 <p>Agregamos un mini enemigo, qué al tocarlo, la vida se reduce</p>
 <p>Adicionalmente, le agregamos un nuevo menu de opciones con un juego más para el entretenimiento.</p>
 
+<h3>7. Como ejecutarlo y como jugarlo </h3>
+<p>Para ejecutarlo, luego de tener la carpeta del repositorio del juego, buscamos la carpeta llamada parte 6 Final, donde buscaremos el archivo llamado Run y lo ejecutamos " Hay que tener Instalado Love2D</p>
+<p>Para jugarlo se debe elejir en el menu entre 2 opciones de juego con el cursor del raton y dando clip en el juego elejido, ya estando dentro del juego se interactuara con el personaje con las teclas [A], [W] Y [D]</p>
